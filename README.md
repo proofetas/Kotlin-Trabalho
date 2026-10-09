@@ -108,7 +108,7 @@ Lista os pets favoritados. Cada card tem um botão **Agendar**; depois de agenda
 Quatro contadores calculados em tempo real: pets, ONGs, favoritos e encontros agendados. Dois atalhos: **Cadastrar pet** e **Cadastrar ONG**.
 
 ### 4.6 Detalhes do Pet
-![Detalhes do Pet](prints/06-detalhes-pet.png)
+
 
 Foto, nome, raça, etiquetas (idade, **fase da vida** e vacinado/não vacinado), descrição e o cartão da **ONG responsável**.
 
@@ -117,17 +117,16 @@ Foto, nome, raça, etiquetas (idade, **fase da vida** e vacinado/não vacinado),
 - O botão "Quero conhecer …" favorita o pet; depois vira "Nos meus favoritos".
 
 ### 4.7 Detalhes da ONG
-![Detalhes da ONG](prints/07-detalhes-ong.png)
+
 
 Cidade, telefone e descrição da ONG, a contagem "N pets esperando por um lar" e a lista dos pets que pertencem a ela. Tocar num pet abre os Detalhes dele. O botão "Remover ONG e seus pets" apaga a ONG e volta para a tela anterior.
 
 ### 4.8 Novo Pet
-![Novo Pet](prints/08-form-pet.png)
 
 Formulário com nome, raça, idade em meses (teclado numérico, só aceita dígitos), descrição (várias linhas), caixa "Pet vacinado" e seleção da ONG responsável. Se faltar algo, aparece um aviso e nada é salvo. Ao salvar, o pet aparece no topo da lista da Home e a tela volta sozinha.
 
 ### 4.9 Nova ONG
-![Nova ONG](prints/09-form-ong.png)
+
 
 Formulário com nome, cidade, telefone e descrição. Nome e cidade são obrigatórios. Ao salvar, a ONG aparece no topo da lista e fica disponível no formulário de novo pet.
 
