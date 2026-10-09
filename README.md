@@ -70,7 +70,7 @@ Principais caminhos de navegação:
 > Os prints ficam na pasta `prints/`. Substituir cada marcador pela imagem real tirada no emulador.
 
 ### 4.1 Home — "Adote seu Amigo"
-![Home](prints/01-home.png)
+
 
 Barra superior verde com o título e campo de busca. Abaixo, uma lista de cards, um por pet: foto, nome, raça em destaque e uma descrição que termina com a cidade e a ONG responsável ("Localizado em Curitiba / PR — Patinhas do Sul").
 
@@ -80,7 +80,7 @@ Barra superior verde com o título e campo de busca. Abaixo, uma lista de cards,
 - **Adicionar:** o botão "+" no canto inferior abre o formulário de novo pet.
 
 ### 4.2 Pets — "Loucos para te conhecer"
-![Pets](prints/02-pets.png)
+
 
 Grade de duas colunas com foto, nome, raça e idade. Cada foto tem um selo circular (check) no canto.
 
@@ -89,7 +89,7 @@ Grade de duas colunas com foto, nome, raça e idade. Cada foto tem um selo circu
 - Tocar no card abre os Detalhes do Pet.
 
 ### 4.3 ONG — "CCA Datão"
-![ONG](prints/03-ong.png)
+
 
 Parte de cima: quatro cards de **campanha de adoção**, com uma bolinha de data ao lado (verde com check quando confirmada, cinza quando não). Parte de baixo: a seção "Organização Não Governamental (ONG)" com a lista de ONGs.
 
@@ -99,12 +99,11 @@ Parte de cima: quatro cards de **campanha de adoção**, com uma bolinha de data
 - **Adicionar:** o botão "+" abre o formulário de nova ONG.
 
 ### 4.4 Encontro
-![Encontro](prints/04-encontro.png)
 
 Lista os pets favoritados. Cada card tem um botão **Agendar**; depois de agendar, o card mostra "Encontro agendado ✓" e o botão vira **Cancelar**. Sem favoritos, a tela explica como marcar um pet na aba PETS.
 
 ### 4.5 Perfil
-![Perfil](prints/05-perfil.png)
+
 
 Quatro contadores calculados em tempo real: pets, ONGs, favoritos e encontros agendados. Dois atalhos: **Cadastrar pet** e **Cadastrar ONG**.
 
